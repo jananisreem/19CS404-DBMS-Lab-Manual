@@ -78,6 +78,8 @@ END;
 
 **Output:**  
 The program should display the employee details or an error message.
+<img width="562" height="700" alt="image" src="https://github.com/user-attachments/assets/18317164-226d-408a-a16f-3b35b144b46b" />
+<img width="346" height="142" alt="image" src="https://github.com/user-attachments/assets/a507edb3-a02c-4144-8f14-289c49a98414" />
 
 ---
 
@@ -97,6 +99,8 @@ The program should display the employee details or an error message.
 
 **Output:**  
 The program should display the employee details within the specified salary range or an error message if no data is found.
+<img width="476" height="720" alt="image" src="https://github.com/user-attachments/assets/59f8fa3e-a664-48d6-8914-779e57fbbea4" />
+<img width="360" height="102" alt="image" src="https://github.com/user-attachments/assets/232722a1-46cb-4899-9dd9-8a5e4f60e251" />
 
 ---
 
@@ -116,6 +120,8 @@ The program should display the employee details within the specified salary rang
 
 **Output:**  
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
+<img width="537" height="546" alt="image" src="https://github.com/user-attachments/assets/fe668119-b31a-48bd-bd38-759e3bb31344" />
+<img width="295" height="107" alt="image" src="https://github.com/user-attachments/assets/7f7b3fe3-41c5-4163-b7da-ccd7cb3de791" />
 
 ---
 
@@ -135,6 +141,8 @@ The program should display employee names with their department numbers or the a
 
 **Output:**  
 The program should display employee records or the appropriate error message if no data is found.
+<img width="517" height="511" alt="image" src="https://github.com/user-attachments/assets/dc52cb65-491a-4d67-9a3d-caa5be5822d4" />
+<img width="270" height="116" alt="image" src="https://github.com/user-attachments/assets/19c5fc00-833d-42a5-9d21-c69c69a7874f" />
 
 ---
 
@@ -154,6 +162,8 @@ The program should display employee records or the appropriate error message if 
 
 **Output:**  
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
+<img width="598" height="825" alt="image" src="https://github.com/user-attachments/assets/c49bf72e-9d37-407f-befb-92392fd45e3f" />
+<img width="272" height="72" alt="image" src="https://github.com/user-attachments/assets/041662ed-cc97-41fa-9c72-6183c6851100" />
 
 ---
 
