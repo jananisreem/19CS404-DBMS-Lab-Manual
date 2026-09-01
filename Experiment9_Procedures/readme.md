@@ -62,6 +62,8 @@ Key Differences:
 
 **Expected Output:**  
 Square of 6 is 36
+<img width="707" height="227" alt="image" src="https://github.com/user-attachments/assets/a8186125-10da-4e78-8e88-9c6a40be08e8" />
+<img width="238" height="87" alt="image" src="https://github.com/user-attachments/assets/2d5fab01-3d0b-401b-9b06-1f0940fd404a" />
 
 ---
 
@@ -76,6 +78,8 @@ Square of 6 is 36
 
 **Expected Output:**  
 Factorial of 5 is 120
+<img width="627" height="477" alt="image" src="https://github.com/user-attachments/assets/6e3e3400-e506-4463-a533-58d9acd455d9" />
+<img width="232" height="106" alt="image" src="https://github.com/user-attachments/assets/c861430b-9b2d-4205-889a-a59710fe1aad" />
 
 ---
 
@@ -89,6 +93,8 @@ Factorial of 5 is 120
 
 **Expected Output:**  
 12 is Even
+<img width="595" height="282" alt="image" src="https://github.com/user-attachments/assets/4843f747-f94d-4bb9-a529-cd7a1fabc742" />
+<img width="140" height="97" alt="image" src="https://github.com/user-attachments/assets/7d1437b3-f206-4289-b228-ae6540c99ebd" />
 
 ---
 
@@ -103,6 +109,8 @@ Factorial of 5 is 120
 
 **Expected Output:**  
 Reversed number of 1234 is 4321
+<img width="692" height="468" alt="image" src="https://github.com/user-attachments/assets/93d4600b-59d0-4d16-8856-2d8e64ce8548" />
+<img width="340" height="123" alt="image" src="https://github.com/user-attachments/assets/78ba3531-9d92-4624-a32e-2f8ec1c5baf4" />
 
 ---
 
@@ -121,6 +129,8 @@ Multiplication table of 5:
 5 x 3 = 15  
 ...  
 5 x 10 = 50
+<img width="682" height="265" alt="image" src="https://github.com/user-attachments/assets/4bcdaa90-97df-404e-8e7b-2e11e019ba41" />
+<img width="436" height="322" alt="image" src="https://github.com/user-attachments/assets/d6e65df0-af9b-4d30-8b2b-b7e87cbaa67a" />
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
