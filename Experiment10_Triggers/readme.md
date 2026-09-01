@@ -32,6 +32,8 @@ END;
 
 **Expected Output:**
 - A new entry is added to the `employee_log` table each time a new record is inserted into the `employees` table.
+<img width="642" height="421" alt="image" src="https://github.com/user-attachments/assets/b4c31ce5-e72f-4b89-bfa3-6fba5514a3e1" />
+<img width="425" height="80" alt="image" src="https://github.com/user-attachments/assets/7d68ca6b-02c1-462b-bd1f-3ada668560be" />
 
 ---
 
@@ -42,6 +44,8 @@ END;
 
 **Expected Output:**
 - If an attempt is made to delete a record from `sensitive_data`, an error message is raised, e.g., `ERROR: Deletion not allowed on this table.`
+<img width="522" height="252" alt="image" src="https://github.com/user-attachments/assets/2ad29e95-09d6-4269-8a16-98bde7c34af6" />
+<img width="650" height="150" alt="image" src="https://github.com/user-attachments/assets/e06398f5-cba1-4bff-933f-99bc2b0a9ae7" />
 
 ---
 
@@ -52,6 +56,8 @@ END;
 
 **Expected Output:**
 - The `last_modified` column in the `products` table is updated automatically to the current date and time when any record is updated.
+<img width="446" height="425" alt="image" src="https://github.com/user-attachments/assets/ca1a520b-ece2-420a-9ba4-ecb91a89c695" />
+<img width="453" height="265" alt="image" src="https://github.com/user-attachments/assets/5ee01a91-6dc5-4f30-9060-be6a5f48cf3b" />
 
 ---
 
@@ -62,6 +68,8 @@ END;
 
 **Expected Output:**
 - The `audit_log` table will maintain a count of how many updates have been made to the `customer_orders` table.
+<img width="587" height="445" alt="image" src="https://github.com/user-attachments/assets/3de919b1-d961-49d7-add8-0b335a305eff" />
+<img width="255" height="222" alt="image" src="https://github.com/user-attachments/assets/34963ba4-1599-4d00-8ff5-ff00073fb2f9" />
 
 ---
 
@@ -72,6 +80,8 @@ END;
 
 **Expected Output:**
 - If the inserted salary in the `employees` table is below the condition (e.g., salary < 3000), the insert operation is blocked, and an error message is raised, such as: `ERROR: Salary below minimum threshold.`
+<img width="556" height="316" alt="image" src="https://github.com/user-attachments/assets/316cd251-3055-4a53-b093-f4f0c0ce9152" />
+<img width="645" height="152" alt="image" src="https://github.com/user-attachments/assets/a1f4a0f0-a9d6-4f31-bba8-f02913da0164" />
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
